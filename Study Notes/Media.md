@@ -1,0 +1,4 @@
+
+**AWS Elemental MediaStore**: Acts primarily as a storage service optimized for media. It provides low-latency, high-performance storage for video segments, designed for live video streaming. MediaStore is often used as an origin for video distribution to CDNs like AWS CloudFront.
+
+**AWS Elemental MediaPackage**: Focuses on video packaging and delivery. It prepares and packages video content in various formats (HLS, DASH, etc.), ensuring the content can be streamed to different devices. MediaPackage is also responsible for handling adaptive bitrate streaming (ABR), allowing seamless quality switching based on viewer bandwidth.
